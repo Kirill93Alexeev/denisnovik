@@ -23,6 +23,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 body{
@@ -311,6 +312,7 @@ font-weight: 400;
 background-color: #070707;
 height: 42px;
 width: 180.5px;
+border: 1px solid black;
 border-radius: 50px;
 margin-bottom: 86px;
 transition: 0.5s;
